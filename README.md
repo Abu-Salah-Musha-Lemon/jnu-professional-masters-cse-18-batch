@@ -52,6 +52,7 @@
 | Ads Creation| https://usemintly.com/|
 |Dramaclaw|https://github.com/dramaclaw/dramaclaw|
 |miniapps.ai/gpt-6-astra|https://miniapps.ai/gpt-6-astra|
+|Open Source AI Voice Studio 646 languages|https://voicestudio.sh/|
 
 ---
 
