@@ -38,6 +38,7 @@
 | Browserbase Skills | https://github.com |
 | Ruflo | https://github.com |
 | Lobe Hub | https://github.com/lobehub/lobe-chat |
+|youtube-agent-skill|https://github.com/Jakeschincariol/youtube-agent-skill|
 
 ---
 
