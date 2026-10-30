@@ -39,6 +39,7 @@
 | Ruflo | https://github.com |
 | Lobe Hub | https://github.com/lobehub/lobe-chat |
 |youtube-agent-skill|https://github.com/Jakeschincariol/youtube-agent-skill|
+|hyperframes|https://github.com/heygen-com/hyperframes|
 
 ---
 
